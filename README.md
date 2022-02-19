@@ -10,3 +10,7 @@ Learning Angular by building an app
 - Form Reactivity
 - JSON Server
 - Data Binding
+
+![name](https://github.com/matshel/productdb-angular/blob/master/src/images/app-image-table.PNG)
+![name](https://github.com/matshel/productdb-angular/blob/master/src/images/app-image-add.PNG)
+![name](https://github.com/matshel/productdb-angular/blob/master/src/images/app-image-update.PNG)
